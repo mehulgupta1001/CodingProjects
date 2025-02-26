@@ -1,2 +1,2 @@
 # CodingProjects
-All coding projects done.
+All my coding projects done in mostly Python.
